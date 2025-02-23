@@ -8,6 +8,5 @@ This project involves designing and developing an interactive Sales Analysis Das
 
 ### 🔹Data Processing & Transformation.
 
-*** 1. Extracted, cleaned, and structured raw sales data using Excel Power Query & Pivot Tables. ***
-
+1. Extracted, cleaned, and structured raw sales data using Excel Power Query & Pivot Tables. 
 2. Ensured data accuracy and consistency by handling missing values, duplicates, and formatting issues.
