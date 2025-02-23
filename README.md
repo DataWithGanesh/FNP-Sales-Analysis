@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard - Excel Project
+# FNP Sales Analysis Dashboard - Excel Project
 
 ## 📌 Executive Summary
 
