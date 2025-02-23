@@ -29,6 +29,17 @@ This project involves designing and developing an interactive Sales Analysis Das
 
 ## 📊 Tools & Technologies Used.
 
-1. Microsoft Excel: Pivot Tables, Power Query, Data Validation, Conditional Formatting
-2. Data Visualization: Bar Charts, Line Graphs, Slicers
-3. Data Analysis: Aggregation, Trend Analysis, Performance Metrics
+***1. Microsoft Excel:*** Pivot Tables, Power Query, Data Validation, Conditional Formatting.
+***2. Data Visualization:*** Bar Charts, Line Graphs, Slicers.
+***3. Data Analysis:*** Aggregation, Trend Analysis, Performance Metrics.
+
+## 📂 Project Structure.
+
+📂 Sales_Analysis_Dashboard/
+│-- 📊 Sales Data.xlsx        # Processed sales dataset
+│-- 📂 Dashboard.xlsx         # Interactive sales dashboard
+│-- 📜 README.md              # Project documentation
+│-- 📸 Dashboard_Screenshot.png # Dashboard preview
+
+
+
