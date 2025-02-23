@@ -39,7 +39,7 @@ This project involves designing and developing an interactive Sales Analysis Das
 │-- 📊 Sales Data.xlsx        # Processed sales dataset \
 │-- 📂 Dashboard.xlsx         # Interactive sales dashboard \
 │-- 📜 README.md              # Project documentation \
-│-- 📸 Dashboard_Screenshot.png # Dashboard preview \
+│-- 📸 Dashboard_Screenshot.png # Dashboard preview 
 
 
 
